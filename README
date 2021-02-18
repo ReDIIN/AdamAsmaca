@@ -1,0 +1,11 @@
+Çalıştırmak için
+
+python3 adamasmaca.py
+
+tek bir harf girildiğinde 1 tane harf verir 
+
+tüm kelimeler
+
+"adam", "python", "terminal", "mrrobot" "çocuk", "adam", "root", "hacker"
+
+kendiniz ekleme çıkarma yaparak kodları düzenleyebilir kelimeleri arttırabilirsiniz
